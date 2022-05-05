@@ -45,6 +45,8 @@ p {
 h2 {
 color: #fff;
   mix-blend-mode: difference;
+  font-weight: 400;
+  font-size: 1em;
 
 }
 header {
