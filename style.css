@@ -413,12 +413,14 @@ top: 0;
     width: 100vw;
     justify-content: center;
   }
+.totality {
+	background: #000;
+	}
   .name {
     width: 100vw;
   }
   body {
     text-align: left;
-
   }
   .rails.top, .rails.mid, .rails.bottom {
     max-width: 100vw;
